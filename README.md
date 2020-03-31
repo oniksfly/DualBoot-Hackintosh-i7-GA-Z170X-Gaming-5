@@ -1,2 +1,5 @@
 # DualBoot Hackintosh i7-6700K GA-Z170X-Gaming-5
-OpenCore dual boot (Win10/macOS Catalina 10.15) Intel i7-6700K and Gigabyte GA-Z170X-Gaming setup with Radeon RX580 GPU
+## Specification 
+* CPU: [Intel Core i7 - 6700K](https://ark.intel.com/content/www/us/en/ark/products/88195/intel-core-i7-6700k-processor-8m-cache-up-to-4-20-ghz.html)
+* Motherboard: Gigabyte GA-Z170X-Gaming 5 (rev. 1.0)
+* GPU: [Sapphire NITRO+ Radeon RX 580 8G G5](https://www.sapphiretech.com/en-us/consumer/nitro-rx-580-8g-g5)
