@@ -12,6 +12,8 @@
 * Memory 16Gb DDR4 2400MHz Crucial Ballistix Sport BLS16G4D240FSB
 * Drive ASUS DRW-24F1MT DVD±RW
 
+## OpenCore
+Check [config.plist](OC/config.plist) and replace system specific values like serial number. You can find them by placeholder `--REPLACE--`.
 
 ## Inspired
 * [OpenCore_GA-Z170X-Gaming5](https://github.com/barijaona/OpenCore_GA-Z170X-Gaming5)
