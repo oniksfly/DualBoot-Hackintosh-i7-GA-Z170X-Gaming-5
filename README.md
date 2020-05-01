@@ -7,7 +7,7 @@
 * Storages:
   * `winOS` MS Windows 10 system SSD: KINGSTON 120Gb SV300S37A120G
   * `winData` data HDD: HGST Travelstar 7K1000 1TB HTS721010A9E630
-  * `macOS` macOS Catalina system SSD: Samsung SSD 850 EVO 250GB
+  * `macos` macOS Catalina system SSD: Samsung SSD 860 EVO 1TB
   * `macData` data HDD: Seagate Desktop HDD 1TB ST1000DM003-1SB102
 * Memory 16Gb DDR4 2400MHz Crucial Ballistix Sport BLS16G4D240FSB
 * Drive ASUS DRW-24F1MT DVD±RW
