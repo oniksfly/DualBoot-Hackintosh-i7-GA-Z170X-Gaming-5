@@ -13,7 +13,8 @@
 * Drive ASUS DRW-24F1MT DVD±RW
 
 ## OpenCore
-[Version 5.6](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.5.6)
+[Version 0.6.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.4)
+
 Check [config.plist](OC/config.plist) and replace system specific values like serial number. You can find them by placeholder `--REPLACE--`.
 
 ## Inspired
