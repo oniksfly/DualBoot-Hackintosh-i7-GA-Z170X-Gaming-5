@@ -12,10 +12,14 @@
 * Memory 16Gb DDR4 2400MHz Crucial Ballistix Sport BLS16G4D240FSB
 * Drive ASUS DRW-24F1MT DVD±RW
 
-## OpenCore
-[Version 0.6.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.4)
+## Software
 
-Check [config.plist](OC/config.plist) and replace system specific values like serial number. You can find them by placeholder `--REPLACE--`.
+Checked OS via dual boot: 
+* macos 10.15.7 (Catalina)
+* Win 10 Pro
+
+
+Loader: OpenCore [Version 0.6.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.4). Check [config.plist](OC/config.plist) and replace system specific values like serial number. You can find them by placeholder `--REPLACE--`.
 
 ## Inspired
 * [OpenCore_GA-Z170X-Gaming5](https://github.com/barijaona/OpenCore_GA-Z170X-Gaming5)
