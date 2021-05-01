@@ -22,7 +22,7 @@ Checked OS via dual boot:
 Loader: OpenCore [Version 0.6.4](https://github.com/acidanthera/OpenCorePkg/releases/tag/0.6.4). Check [config.plist](OC/config.plist) and replace system specific values like serial number. You can find them by placeholder `--REPLACE--`.
 
 ## Known issues
-* [Only HDMI and DVI output works](https://github.com/oniksfly/DualBoot-Hackintosh-i7-GA-Z170X-Gaming-5/issues/2)
+* ~~[Only HDMI and DVI output works](https://github.com/oniksfly/DualBoot-Hackintosh-i7-GA-Z170X-Gaming-5/issues/2)~~
 
 ## Inspired
 * [OpenCore_GA-Z170X-Gaming5](https://github.com/barijaona/OpenCore_GA-Z170X-Gaming5)
