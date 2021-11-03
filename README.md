@@ -15,7 +15,7 @@
 ## Software
 
 Checked OS via dual boot: 
-* macos 10.15.7 (Catalina)
+* macos 11.6 (Big Sur)
 * Win 10 Pro
 
 
